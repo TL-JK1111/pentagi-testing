@@ -60,7 +60,7 @@
         "remark-gfm": "^4.0.1",
         "tailwind-merge": "^2.5.4",
         "tailwindcss-animate": "^1.0.7",
-        "zod": "^3.25.32",
+        "zod": "^3.25.57",
         "zustand": "^5.0.5"
     },
     "devDependencies": {
